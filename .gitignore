@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.work/
+work/
+outputs/
+*.tsbuildinfo
+.DS_Store
